@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS", "HMS\HMS.csproj", "{7C3FBF28-9EBC-416A-B138-F2EAD1735627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patientRegistrationTest", "patientRegistrationTest\patientRegistrationTest.csproj", "{2F491C9A-6357-4781-95FF-BA52F7A4769C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMSTests", "HMSTests\HMSTests.csproj", "{2B73DFC5-7D82-411B-BC0C-B41DFB02FDEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3FBF28-9EBC-416A-B138-F2EAD1735627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3FBF28-9EBC-416A-B138-F2EAD1735627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3FBF28-9EBC-416A-B138-F2EAD1735627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3FBF28-9EBC-416A-B138-F2EAD1735627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F491C9A-6357-4781-95FF-BA52F7A4769C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F491C9A-6357-4781-95FF-BA52F7A4769C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F491C9A-6357-4781-95FF-BA52F7A4769C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F491C9A-6357-4781-95FF-BA52F7A4769C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B73DFC5-7D82-411B-BC0C-B41DFB02FDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B73DFC5-7D82-411B-BC0C-B41DFB02FDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B73DFC5-7D82-411B-BC0C-B41DFB02FDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B73DFC5-7D82-411B-BC0C-B41DFB02FDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
