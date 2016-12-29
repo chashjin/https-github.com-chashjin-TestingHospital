@@ -16,7 +16,6 @@ namespace StaffManagement
         {
             try
             {
-
                 HttpCookie cookie = Request.Cookies["Login"];
                 tbLoginId.Text = cookie["loginID"];
             }
